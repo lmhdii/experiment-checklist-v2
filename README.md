@@ -181,11 +181,15 @@ Projet réalisé dans le cadre du cours **Data Science** à **DataBird** (2025).
 
 **Adaptation du sujet** : Au lieu d'analyser des tweets sur le changement climatique, j'ai créé un assistant aligné avec mon rôle de Product Manager en expérimentation. Le projet respecte tous les critères techniques (HuggingFace, LLM, Langchain, Gradio) tout en étant directement utilisable dans mon travail quotidien.
 
+**Approche de développement** : En tant que PM, j'ai utilisé Claude (Anthropic) comme co-pilote technique pour l'implémentation, me concentrant sur l'architecture, les décisions produit, et la compréhension des concepts RAG (retrieval, embeddings, generation). Cette démarche reflète l'utilisation moderne d'outils AI pour le prototypage rapide et le développement d'une expertise technique adaptée au rôle de Product Manager.
+
 ---
 
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! Ouvrez une issue ou une pull request.
+
+**Note** : Ce projet a été initialement développé comme prototype PM avec assistance AI. Les contributions de développeurs pour améliorer la qualité du code, optimiser les performances, ou ajouter des features sont particulièrement appréciées.
 
 **Axes d'amélioration prioritaires** :
 - Élargir le corpus (blogs techniques, docs internes)

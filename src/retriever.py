@@ -1,4 +1,3 @@
-
 """
 Simple FAISS retriever for document search.
 Wraps FAISS vectorstore with a clean interface.

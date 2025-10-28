@@ -16,7 +16,7 @@ Les équipes Product et Data Science perdent du temps à chercher des définitio
 
 **Solution** : Un assistant RAG (Retrieval-Augmented Generation) qui génère des réponses sourcées et vérifiables.
 
-- 🚀 [Démo en ligne](https://huggingface.co/spaces/lmhdii/experiment-assistant) 
+🚀 [Démo en ligne](https://huggingface.co/spaces/lmhdii/experiment-assistant) 
 ---
 
 ## 🔍 Pourquoi RAG ? Vérifiabilité avant Confiance Aveugle

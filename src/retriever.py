@@ -1,6 +1,15 @@
+
 """
 Simple FAISS retriever for document search.
 Wraps FAISS vectorstore with a clean interface.
+
+NOTE: This module is primarily used for CLI testing and debugging.
+The main application (app.py) uses FAISS directly via LangChain's
+RetrievalQA chain. This separation allows testing the retrieval
+component independently without launching the full Gradio UI.
+
+Usage:
+    python src/retriever.py  # Interactive CLI search
 """
 
 import os

@@ -1,0 +1,23 @@
+# Core dependencies only
+python-dotenv==1.0.1
+
+# LLM & LangChain
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-core==0.3.79
+langchain-groq==0.3.8
+groq==0.33.0
+
+# Vector store & embeddings
+faiss-cpu==1.12.0
+sentence-transformers==5.1.2
+
+# Data processing
+datasets==4.2.0
+wikipedia-api==0.8.1
+
+# UI
+gradio==4.44.1
+
+# Utils
+tqdm==4.67.1
